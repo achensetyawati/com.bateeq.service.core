@@ -119,7 +119,8 @@ namespace Com.DanLiris.Service.Core.WebApi
                 .AddTransient<IAzureImageService, AzureImageService>()
                 .AddTransient<StoreService>()
                 .AddTransient<BankService>()
-                .AddTransient<ModuleService>();
+                .AddTransient<ModuleService>()
+				.AddScoped<VatService>(); ;
 
 
             RegisterServices(services);

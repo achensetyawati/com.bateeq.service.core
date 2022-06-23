@@ -97,8 +97,8 @@ namespace Com.DanLiris.Service.Core.Lib
         public DbSet<Store> Stores { get; set; }
         public DbSet<Bank> Banks { get; set; }
         public DbSet<CardType> CardTypes { get; set; }
-
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+		public DbSet<Vat> Vat { get; set; }
+		protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
