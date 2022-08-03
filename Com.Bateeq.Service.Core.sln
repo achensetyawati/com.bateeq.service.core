@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6602063C-2D61-474F-B7DB-0D7CD170E97F}"
+	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
+		.gitignore = .gitignore
+		.travis.yml = .travis.yml
+		codecov.yml = codecov.yml
+		docker-compose.test.yml = docker-compose.test.yml
+		Dockerfile.test = Dockerfile.test
+		Dockerfile.test.build = Dockerfile.test.build
+		Dockerfile.test.build.sh = Dockerfile.test.build.sh
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Bateeq.Service.Core.Lib", "Com.Bateeq.Service.Core.Lib\Com.Bateeq.Service.Core.Lib.csproj", "{1395260E-2C4A-4B1F-A900-6E5C1BF0D12B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Bateeq.Service.Core.Test", "Com.Bateeq.Service.Core.Test\Com.Bateeq.Service.Core.Test.csproj", "{E059AE96-E580-4F8F-8363-18DE0D024101}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Com.Bateeq.Service.Core.WebApi", "Com.Bateeq.Service.Core.WebApi\Com.Bateeq.Service.Core.WebApi.csproj", "{2FB63102-A488-4090-9C2B-EEED10D36901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1395260E-2C4A-4B1F-A900-6E5C1BF0D12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1395260E-2C4A-4B1F-A900-6E5C1BF0D12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1395260E-2C4A-4B1F-A900-6E5C1BF0D12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1395260E-2C4A-4B1F-A900-6E5C1BF0D12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E059AE96-E580-4F8F-8363-18DE0D024101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E059AE96-E580-4F8F-8363-18DE0D024101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E059AE96-E580-4F8F-8363-18DE0D024101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E059AE96-E580-4F8F-8363-18DE0D024101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB63102-A488-4090-9C2B-EEED10D36901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB63102-A488-4090-9C2B-EEED10D36901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB63102-A488-4090-9C2B-EEED10D36901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB63102-A488-4090-9C2B-EEED10D36901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDFF2F27-27DC-4EB6-98CB-FC3A8B48285A}
+	EndGlobalSection
+EndGlobal

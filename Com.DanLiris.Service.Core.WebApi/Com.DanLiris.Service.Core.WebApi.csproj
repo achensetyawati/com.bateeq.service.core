@@ -19,8 +19,4 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Com.DanLiris.Service.Core.Lib\Com.DanLiris.Service.Core.Lib.csproj" />
-  </ItemGroup>
-
 </Project>

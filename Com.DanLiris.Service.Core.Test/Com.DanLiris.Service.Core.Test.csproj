@@ -19,7 +19,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Com.DanLiris.Service.Core.Lib\Com.DanLiris.Service.Core.Lib.csproj" />
     <ProjectReference Include="..\Com.DanLiris.Service.Core.WebApi\Com.DanLiris.Service.Core.WebApi.csproj" />
   </ItemGroup>
 

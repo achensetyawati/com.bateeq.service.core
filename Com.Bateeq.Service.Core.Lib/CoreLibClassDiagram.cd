@@ -1,0 +1,1597 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Com.DanLiris.Service.Core.Lib.AutoMapperProfiles.MachineSpinningProfile" Collapsed="true">
+    <Position X="103.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AutoMapperProfiles\MachineSpinningProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Exceptions.DbReferenceNotNullException" Collapsed="true">
+    <Position X="105.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exceptions\DbReferenceNotNullException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.IdentityService.IdentityService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="107.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAEA=</HashCode>
+      <FileName>Helpers\IdentityService\IdentityService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.ValidateService.ValidateService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="95" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\ValidateService\ValidateService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.BasicService&lt;TDbContext, TModel&gt;" Collapsed="true">
+    <Position X="48.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAQAAAAIAAgAAAAAACAEABAABAAA=</HashCode>
+      <FileName>Helpers\BasicService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.BasicViewModel" Collapsed="true">
+    <Position X="47.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAABAAAAAAAAAAAABAJAAAAAAAAAgAQAEAAAAEAA=</HashCode>
+      <FileName>Helpers\BasicViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.BasicViewModelOld" Collapsed="true">
+    <Position X="5.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAgAAABAAAAAAAAAAACAgEAQAABAEAA=</HashCode>
+      <FileName>Helpers\BasicViewModelOld.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.CodeGenerator" Collapsed="true">
+    <Position X="95" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQIAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Helpers\CodeGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.General" Collapsed="true">
+    <Position X="102" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAIAAIAAAAAAAACAAAABAAAAAAAA=</HashCode>
+      <FileName>Helpers\General.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.PropertyCopier&lt;OriginClass, DestinationClass&gt;" Collapsed="true">
+    <Position X="112.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\PropertyCopier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.QueryHelper&lt;TModel&gt;" Collapsed="true">
+    <Position X="95" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Helpers\QueryHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.ReadResponse&lt;TModel&gt;" Collapsed="true">
+    <Position X="96.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAI=</HashCode>
+      <FileName>Helpers\ReadResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Helpers.ServiceValidationException" Collapsed="true">
+    <Position X="107.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Helpers\ServiceValidationException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.initial" Collapsed="true">
+    <Position X="110.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180606091653_initial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.DesignMotive" Collapsed="true">
+    <Position X="110.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180612075330_DesignMotive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.updateModel_Product" Collapsed="true">
+    <Position X="114.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180612105849_updateModel_Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.OrderType" Collapsed="true">
+    <Position X="112.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180614074631_OrderType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AddRemarkOrderType" Collapsed="true">
+    <Position X="98.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180614075215_AddRemarkOrderType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.TermOfPayment" Collapsed="true">
+    <Position X="100.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180617172038_TermOfPayment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AccountBank" Collapsed="true">
+    <Position X="95" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180617174951_AccountBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.renameVat" Collapsed="true">
+    <Position X="103.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180621074715_renameVat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_DivisionCode_to_Unit" Collapsed="true">
+    <Position X="109" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180629012700_Add_DivisionCode_to_Unit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.addMasterServices" Collapsed="true">
+    <Position X="114.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180716075541_addMasterServices.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.addMasterLampStandard" Collapsed="true">
+    <Position X="112.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180719051358_addMasterLampStandard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.addColorTypes" Collapsed="true">
+    <Position X="100.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180719121347_addColorTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.add_product_columns" Collapsed="true">
+    <Position X="114.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180904155836_add_product_columns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.updateAccountBank" Collapsed="true">
+    <Position X="112.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180912023305_updateAccountBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.initialGarmentCategories" Collapsed="true">
+    <Position X="112.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180912074935_initialGarmentCategories.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_Table_GarmentBuyer_GarmentComodity" Collapsed="true">
+    <Position X="95" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180913025242_Add_Table_GarmentBuyer_GarmentComodity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_Table_Garmnet_Product" Collapsed="true">
+    <Position X="96.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180913054040_Add_Table_Garmnet_Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.addGarmentSupplier" Collapsed="true">
+    <Position X="105.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180913064237_addGarmentSupplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Update_Column_Width_in_Table_Garmnet_Product" Collapsed="true">
+    <Position X="110.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180913090444_Update_Column_Width_in_Table_Garmnet_Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.deleteUID" Collapsed="true">
+    <Position X="107.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180914015111_updategarmentsupplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_Column_ProductType_and_Compotition_on_GarmentProduct" Collapsed="true">
+    <Position X="105.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180917020722_Add_Column_ProductType_and_Compotition_on_GarmentProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Rename_Column_Compotition_into_Composition_on_GarmentProduct" Collapsed="true">
+    <Position X="100.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180917022722_Rename_Column_Compotition_into_Composition_on_GarmentProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.garmentbuyerBrand" Collapsed="true">
+    <Position X="107.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20180926032804_garmentbuyerBrand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_Garment_Currency_Symbol" Collapsed="true">
+    <Position X="110.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181004085945_Add_Garment_Currency_Symbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AddProductSPPProperties" Collapsed="true">
+    <Position X="96.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181005094641_AddProductSPPProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_Budget_Currency" Collapsed="true">
+    <Position X="102" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181010014057_Add_Budget_Currency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_GarmentSupplier_IncomeTaxesField" Collapsed="true">
+    <Position X="112.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181012020300_Add_GarmentSupplier_IncomeTaxesField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Edit_GarmentSupplier_tax" Collapsed="true">
+    <Position X="95" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181012035952_Edit_GarmentSupplier_tax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Edit_GarmentSupplier_field" Collapsed="true">
+    <Position X="114.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181012063824_Edit_GarmentSupplier_field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Fix_GarmentSupplier_PPH" Collapsed="true">
+    <Position X="98.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181015071002_Fix_GarmentSupplier_PPH.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Garment_supplier_pph" Collapsed="true">
+    <Position X="103.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181015071229_Garment_supplier_pph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.MachineSpinning" Collapsed="true">
+    <Position X="98.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181125111544_MachineSpinning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_Columns_MachineSpinning" Collapsed="true">
+    <Position X="107.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181127024917_Add_Columns_MachineSpinning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AddLineAndUnitInMachineSpinning" Collapsed="true">
+    <Position X="107.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20181220103730_AddLineAndUnitInMachineSpinning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AddNoForMachineSpinning" Collapsed="true">
+    <Position X="95" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190116093102_AddNoForMachineSpinning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.InitialsGarmentSection" Collapsed="true">
+    <Position X="95" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190118025051_Initials GarmentSection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Initials_Standard_Minute_Values" Collapsed="true">
+    <Position X="114.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190119014345_Initials_Standard_Minute_Values.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Update_Column_Name_Standard_Minute_Values" Collapsed="true">
+    <Position X="107.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190119015231_Update_Column_Name_Standard_Minute_Values.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_Column_Name_Standard_Minute_Values" Collapsed="true">
+    <Position X="103.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190119021307_Add_Column_Name_Standard_Minute_Values.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.update_Column_Standard_Minute_Values" Collapsed="true">
+    <Position X="109" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190119023203_update_Column_Standard_Minute_Values.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AddUIdtoSMV" Collapsed="true">
+    <Position X="100.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190220023414_Add UId to SMV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.RenameMinutetoSMV" Collapsed="true">
+    <Position X="102" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190221024037_Rename Minute to SMV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.FixLengthDescInProduct" Collapsed="true">
+    <Position X="102" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190222123207_FixLengthDescInProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AddDetailForMachineSpinning" Collapsed="true">
+    <Position X="102" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190225080807_AddDetailForMachineSpinning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AddMachineCodeMachineSpinning" Collapsed="true">
+    <Position X="109" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190225085218_AddMachineCodeMachineSpinning.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.UIdfromMongoDB" Collapsed="true">
+    <Position X="102" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190322024340_UId from MongoDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.BanksAccountCOA" Collapsed="true">
+    <Position X="102" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190516052017_BanksAccountCOA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.fixDataType" Collapsed="true">
+    <Position X="100.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190517131400_fixDataType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.ModifyProductColumnSize" Collapsed="true">
+    <Position X="110.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190523083111_ModifyProductColumnSize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AddDivisionIdCategory" Collapsed="true">
+    <Position X="103.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190705115058_AddDivisionIdCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.AddMappingCategory" Collapsed="true">
+    <Position X="110.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190705115402_AddMappingCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.CategoryCOAAccount" Collapsed="true">
+    <Position X="110.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190708085558_CategoryCOAAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.RemoveCOA" Collapsed="true">
+    <Position X="98.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190708091441_RemoveCOA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.COACodeUnitDivisionCategory" Collapsed="true">
+    <Position X="112.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190709035809_COACodeUnitDivisionCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.COASize" Collapsed="true">
+    <Position X="114.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190709040055_COASize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.Add_Table_Sizes" Collapsed="true">
+    <Position X="98.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAI=</HashCode>
+      <FileName>Migrations\20190830042204_Add_Table_Sizes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Migrations.CoreDbContextModelSnapshot" Collapsed="true">
+    <Position X="102" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Migrations\CoreDbContextModelSnapshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Account_and_Roles.AccountProfile" Collapsed="true">
+    <Position X="98.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAACIAgAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\Account_and_Roles\AccountProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Account_and_Roles.AccountRole" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="100.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAACAAAAAEgAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\Account_and_Roles\AccountRole.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Account_and_Roles.Permission" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="98.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAACAAAAAMAAAAAIAABAAAAAAIAAEAAAAEAA=</HashCode>
+      <FileName>Models\Account_and_Roles\Permission.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Account_and_Roles.Role" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="105.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACgAAAAgAAgAAQAAAAAAAAAEAAAAAAAEAA=</HashCode>
+      <FileName>Models\Account_and_Roles\Role.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.AccountBank" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="96.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAggCAAAAAAQAgAACAAAgAQAAAAJYAIAQBFAA=</HashCode>
+      <FileName>Models\AccountBank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Budget" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="103.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\Budget.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.BudgetCurrency" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="105.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACAAAAAAAAgAAAAAAAAAAABAAAAAAAAEQA=</HashCode>
+      <FileName>Models\BudgetCurrency.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Buyer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="107.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAICAAgAAQAEAIAAAACEQAAAAAAEAA=</HashCode>
+      <FileName>Models\Buyer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Category" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="109" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGCAAAAAAgAgAAQAAAAIAAAAIAAAAAABEAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.ColorTypes" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="96.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEQA=</HashCode>
+      <FileName>Models\ColorTypes.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Comodity" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="98.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\Comodity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Currency" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="103.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACgAAAAAAAgAAAAAAAAAAAAAAAAAAAAGAA=</HashCode>
+      <FileName>Models\Currency.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.DesignMotive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="109" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\DesignMotive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Division" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="112.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAACgAAAAAAAgAAQAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\Division.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.FinishType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="96.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEQA=</HashCode>
+      <FileName>Models\FinishType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.GarmentBuyer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="105.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAICAAgAAQAEAIAAAACEQAAAAAAEAA=</HashCode>
+      <FileName>Models\GarmentBuyer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.GarmentBuyerBrand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="109" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAIQAAAAAAAAAAAABAEAA=</HashCode>
+      <FileName>Models\GarmentBuyerBrand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.GarmentCategory" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="110.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAoAAAAAAAAAAIAEAA=</HashCode>
+      <FileName>Models\GarmentCategory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.GarmentComodity" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="112.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\GarmentComodity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.GarmentCurrency" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="114.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACAAAAAAAAgAAAAAAAAAAABAAAAAAAAEAA=</HashCode>
+      <FileName>Models\GarmentCurrency.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.GarmentProduct" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="95" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAACACAAAQAAgAEQAAAAgAEAAAAAAAAIAEQA=</HashCode>
+      <FileName>Models\GarmentProduct.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.GarmentSection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="98.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEQA=</HashCode>
+      <FileName>Models\GarmentSection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.GarmentSupplier" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="100.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAgAAAACAAAAAKCAgAAQAAQFAAAACEAAAAACAEAA=</HashCode>
+      <FileName>Models\GarmentSupplier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Holiday" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="103.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACgAAAAAAAgAAQAAAAAAAABAAAAAAABFAA=</HashCode>
+      <FileName>Models\Holiday.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.IncomeTax" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="109" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAACgAAAAAAAAAAQAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\IncomeTax.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.LampStandard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="96.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEQA=</HashCode>
+      <FileName>Models\LampStandard.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.MachineSpinningModel" Collapsed="true">
+    <Position X="100.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABBACEAAAAAABgAAYAACAgAIAAAAAEAAIBAAg=</HashCode>
+      <FileName>Models\MachineSpinningModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.MachineSpinningProcessType" Collapsed="true">
+    <Position X="102" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAABAA=</HashCode>
+      <FileName>Models\MachineSpinningProcessType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.MappingCategory" Collapsed="true">
+    <Position X="107.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Models\MappingCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.MaterialConstruction" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="109" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEQA=</HashCode>
+      <FileName>Models\MaterialConstruction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.OrderType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="114.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEQA=</HashCode>
+      <FileName>Models\OrderType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.ProcessType" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="100.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACAAAAAAEAiAAQAAAAAAAAAAAAQAAAAEQA=</HashCode>
+      <FileName>Models\ProcessType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Product" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="102" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwCgAAAAAQAgAAQAAAAgAEAAAAAAAQYAEAA=</HashCode>
+      <FileName>Models\Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.ProductSPPProperty" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="107.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACgAAAAACAAAAAAEAAAABEASiAAAAAAACSAAFAECA=</HashCode>
+      <FileName>Models\ProductSPPProperty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Quality" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="114.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\Quality.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.SizeModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="109" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\SizeModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.StandardMinuteValue" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="110.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAAACAAAAIAAAAAAAEIRAAEAAQAAAAAABAEAA=</HashCode>
+      <FileName>Models\StandardMinuteValue.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.StandardTests" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="112.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEQA=</HashCode>
+      <FileName>Models\StandardTests.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Storage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="114.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACgAAAAAAAgAAQAAAAAAIAAAAAEAAAAFAA=</HashCode>
+      <FileName>Models\Storage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Supplier" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="96.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAKAAgAAQAAAEAAAACEAAAAACAEAA=</HashCode>
+      <FileName>Models\Supplier.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.TermOfPayment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="98.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAQAAAAAAEAA=</HashCode>
+      <FileName>Models\TermOfPayment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Unit" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="103.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAACgAAAAAAAgAAQAAAAAAAAAAIAAAAABFAA=</HashCode>
+      <FileName>Models\Unit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.Uom" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="105.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAIAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Models\Uom.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Models.YarnMaterial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="96.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAgAAQAAAAAAAAAAAAAAAAAEQA=</HashCode>
+      <FileName>Models\YarnMaterial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.Account_and_Roles.AccountRoleService" Collapsed="true">
+    <Position X="88" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAABAIEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Account_and_Roles\AccountRoleService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.Account_and_Roles.PermissionService" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAIEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Account_and_Roles\PermissionService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.Account_and_Roles.RolesService" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAABAAQAIABgIEAAAACAAABAAAAAA=</HashCode>
+      <FileName>Services\Account_and_Roles\RolesService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.MachineSpinning.MachineSpinningService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="105.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RBAAAQAAAAAAAAIJAAAAQAAgAQAIAAgIAgAAIIAAAoA=</HashCode>
+      <FileName>Services\MachineSpinning\MachineSpinningService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.AccountBankService" Collapsed="true">
+    <Position X="27.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\AccountBankService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.BudgetCurrencyService" Collapsed="true">
+    <Position X="34" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAQIEAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\BudgetCurrencyService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.BudgetService" Collapsed="true">
+    <Position X="40.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\BudgetService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.BuyerService" Collapsed="true">
+    <Position X="47.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAQIEAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\BuyerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.CategoryService" Collapsed="true">
+    <Position X="54.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQIEAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Services\CategoryService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.ColorTypeService" Collapsed="true">
+    <Position X="61" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ColorTypeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.ComodityService" Collapsed="true">
+    <Position X="67.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ComodityService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.CurrencyService" Collapsed="true">
+    <Position X="74.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\CurrencyService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.DesignMotiveService" Collapsed="true">
+    <Position X="79" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\DesignMotiveService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.DivisionService" Collapsed="true">
+    <Position X="83.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAQIEAAAAAAAAAAAAQQAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\DivisionService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.FinishTypeService" Collapsed="true">
+    <Position X="90.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\FinishTypeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.GarmentBuyerBrandService" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Services\GarmentBuyerBrandService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.GarmentBuyerService" Collapsed="true">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAQIEAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\GarmentBuyerService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.GarmentCategoryService" Collapsed="true">
+    <Position X="18.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\GarmentCategoryService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.GarmentComodityService" Collapsed="true">
+    <Position X="22.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\GarmentComodityService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.GarmentCurrencyService" Collapsed="true">
+    <Position X="29.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAQIEAAAAAAAAAAAAQAAAAAABIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\GarmentCurrencyService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.GarmentProductService" Collapsed="true">
+    <Position X="36.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAQIMAAAAAAAAAAAAQAAAAAAAAABAAAAEAAAACAg=</HashCode>
+      <FileName>Services\GarmentProductService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.GarmentSectionService" Collapsed="true">
+    <Position X="43" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\GarmentSectionService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.GarmentSupplierService" Collapsed="true">
+    <Position X="49.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQIEAAAAAAABAAAAQAAAQAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Services\GarmentSupplierService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.GarmentUnitService" Collapsed="true">
+    <Position X="56.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\GarmentUnitService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.HolidayService" Collapsed="true">
+    <Position X="63.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\HolidayService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.IncomeTaxService" Collapsed="true">
+    <Position X="70" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IncomeTaxService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.LampStandardService" Collapsed="true">
+    <Position X="76.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\LampStandardService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.MaterialConstructionService" Collapsed="true">
+    <Position X="81.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\MaterialConstructionService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.OrderTypeService" Collapsed="true">
+    <Position X="85.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\OrderTypeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.ProcessTypeService" Collapsed="true">
+    <Position X="92.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ProcessTypeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.ProductService" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YARAAQIEACAQABAAAAAAQAAAEAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Services\ProductService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.QualityService" Collapsed="true">
+    <Position X="16" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\QualityService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.SizeService" Collapsed="true">
+    <Position X="20.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\SizeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.StandardMinuteValueService" Collapsed="true">
+    <Position X="25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\StandardMinuteValueService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.StandardTestsService" Collapsed="true">
+    <Position X="31.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\StandardTestsService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.StorageService" Collapsed="true">
+    <Position X="38.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\StorageService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.SupplierService" Collapsed="true">
+    <Position X="45.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQIEAAAAAAAAAAAAQAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Services\SupplierService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.TermOfPaymentService" Collapsed="true">
+    <Position X="52" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\TermOfPaymentService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.UnitService" Collapsed="true">
+    <Position X="58.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RgAAAQIEAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\UnitService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.UomService" Collapsed="true">
+    <Position X="65.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAQIEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\UomService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.Services.YarnMaterialService" Collapsed="true">
+    <Position X="72.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIEAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\YarnMaterialService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.Account_and_Roles.AccountProfileViewModel" Collapsed="true">
+    <Position X="63.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Account_and_Roles\AccountProfileViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.Account_and_Roles.AccountRoleViewModel" Collapsed="true">
+    <Position X="72.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Account_and_Roles\AccountRoleViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.Account_and_Roles.AccountViewModel" Collapsed="true">
+    <Position X="79" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAQAAAAAAAgAAAAACABAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Account_and_Roles\AccountViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.Account_and_Roles.PermissionViewModel" Collapsed="true">
+    <Position X="85.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Account_and_Roles\PermissionViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.Account_and_Roles.RoleViewModel" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACgAAAAAAAgAAQAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\Account_and_Roles\RoleViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.AccountBankViewModel" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAgAACACBgAAAAAABYAIAAAAAA=</HashCode>
+      <FileName>ViewModels\AccountBankViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.BudgetCurrencyViewModel" Collapsed="true">
+    <Position X="18.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ViewModels\BudgetCurrencyViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.BudgetViewModel" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\BudgetViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.BuyerViewModel" Collapsed="true">
+    <Position X="31.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAICAAgAAQAEAIAAAACEQAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\BuyerViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.CategoryViewModel" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAGAAAAAAAgAAAAgAIAAEAAAAIAEAAAAAAAA=</HashCode>
+      <FileName>ViewModels\CategoryViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.ColorTypeViewModel" Collapsed="true">
+    <Position X="38.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\ColorTypeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.ComodityViewModel" Collapsed="true">
+    <Position X="40.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ComodityViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.CurrencyViewModel" Collapsed="true">
+    <Position X="43" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAgAAAAAAAgAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>ViewModels\CurrencyViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.DesignMotiveViewModel" Collapsed="true">
+    <Position X="49.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\DesignMotiveViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.DivisionViewModel" Collapsed="true">
+    <Position X="56.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAgAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\DivisionViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.FinishTypeViewModel" Collapsed="true">
+    <Position X="65.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\FinishTypeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.GarmentBuyerBrandViewModel" Collapsed="true">
+    <Position X="74.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAwAAQAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ViewModels\GarmentBuyerBrandViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.GarmentBuyerViewModel" Collapsed="true">
+    <Position X="81.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAICAAgAAQAEAIAAAACEQAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\GarmentBuyerViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.GarmentCategoryViewModel" Collapsed="true">
+    <Position X="88" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAwAIAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\GarmentCategoryViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.GarmentComodityViewModel" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\GarmentComodityViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.GarmentCurrencyViewModel" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ViewModels\GarmentCurrencyViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.GarmentProductViewModel" Collapsed="true">
+    <Position X="20.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAECAAAQAAgAEQAAAAAAEAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\GarmentProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.GarmentProductUomViewModel" Collapsed="true">
+    <Position X="96.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\GarmentProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.GarmentSectionViewModel" Collapsed="true">
+    <Position X="34" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\GarmentSectionViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.GarmentSupplierViewModel" Collapsed="true">
+    <Position X="36.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAgAAAAEAAAAAAAAAACgAIAIEAAAAEAAAAACAQAA=</HashCode>
+      <FileName>ViewModels\GarmentSupplierViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.HolidayViewModel" Collapsed="true">
+    <Position X="5.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAEAAAIAAEAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ViewModels\HolidayViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.HolidayDivisionViewModel" Collapsed="true">
+    <Position X="105.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\HolidayViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.IncomeTaxViewModel" Collapsed="true">
+    <Position X="45.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAIAAAAAAAIAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\IncomeTaxViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.LampStandardViewModel" Collapsed="true">
+    <Position X="52" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\LampStandardViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.MachineSpinningCsvViewModel" Collapsed="true">
+    <Position X="58.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABBACEAAAAAABgAAYAACAgAIAAAQAEAAIBAAg=</HashCode>
+      <FileName>ViewModels\MachineSpinningCsvViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.MachineSpinningProcessTypeViewModel" Collapsed="true">
+    <Position X="67.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAAAABAA=</HashCode>
+      <FileName>ViewModels\MachineSpinningProcessTypeViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.MachineSpinningViewModel" Collapsed="true">
+    <Position X="76.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAABBACEAAAAAABgAAYAACAgAIAAAAAEAAIBAAg=</HashCode>
+      <FileName>ViewModels\MachineSpinningViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.MaterialConstructionViewModel" Collapsed="true">
+    <Position X="83.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\MaterialConstructionViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.OrderTypeViewModel" Collapsed="true">
+    <Position X="90.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\OrderTypeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.PackingDetailModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="95" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAACAAAAAQAAAAABAACgAAAAAAAAAgAEAAQA=</HashCode>
+      <FileName>ViewModels\PackingDetailModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.PackingModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="96.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAA4QQEIACAAIAAAUQgAAAUIQCAAACBAACSAABgECE=</HashCode>
+      <FileName>ViewModels\PackingModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.ProcessTypeViewModel" Collapsed="true">
+    <Position X="22.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAgAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\ProcessTypeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.ProductViewModel" Collapsed="true">
+    <Position X="27.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAkAAAAAAAgAAQACAAAAEAAAAAAAQAAAAA=</HashCode>
+      <FileName>ViewModels\ProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.ProductSPPPropertyViewModel" Collapsed="true">
+    <Position X="109" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAgAAAABEASiAAAAAAACCAAFAECA=</HashCode>
+      <FileName>ViewModels\ProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.ProductCurrencyViewModel" Collapsed="true">
+    <Position X="103.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>ViewModels\ProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.ProductUomViewModel" Collapsed="true">
+    <Position X="110.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.ProductDesignViewModel" Collapsed="true">
+    <Position X="105.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\ProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.QualityViewModel" Collapsed="true">
+    <Position X="47.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\QualityViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.SizeViewModel" Collapsed="true">
+    <Position X="54.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\SizeViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.StandardMinuteValueViewModel" Collapsed="true">
+    <Position X="61" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAQAAAAAAAAIAAAAAAAEIRAAEAAQAAAAAABAAAA=</HashCode>
+      <FileName>ViewModels\StandardMinuteValueViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.StandardTestsViewModel" Collapsed="true">
+    <Position X="70" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\StandardTestsViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.StorageViewModel" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAIAAAAAAAIAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\StorageViewModel..cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.StorageUnitViewModel" Collapsed="true">
+    <Position X="95" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAEAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\StorageViewModel..cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.SupplierViewModel" Collapsed="true">
+    <Position X="9.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAACgAIAIEAAAAEAAAAACAAAA=</HashCode>
+      <FileName>ViewModels\SupplierViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.TermOfPaymentViewModel" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\TermOfPaymentViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.UnitViewModel" Collapsed="true">
+    <Position X="16" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAgAAAAAAAgAAQAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\UnitViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.UomViewModel" Collapsed="true">
+    <Position X="25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewModels\UomViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.ViewModels.YarnMaterialViewModel" Collapsed="true">
+    <Position X="29.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ViewModels\YarnMaterialViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Com.DanLiris.Service.Core.Lib.CoreDbContext" Collapsed="true">
+    <Position X="100.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBJAAFkAEGI+CiAAQAAAAGhgIUAEQGAAAABgwYAQ=</HashCode>
+      <FileName>CoreDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Com.DanLiris.Service.Core.Lib.Helpers.IdentityService.IIdentityService" Collapsed="true">
+    <Position X="95" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAEA=</HashCode>
+      <FileName>Helpers\IdentityService\IIdentityService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Com.DanLiris.Service.Core.Lib.Helpers.ValidateService.IValidateService" Collapsed="true">
+    <Position X="98.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\ValidateService\IValidateService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Com.DanLiris.Service.Core.Lib.Interfaces.IBaseService&lt;TModel&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAgAAAAAAgAAAAAAIAAAIA=</HashCode>
+      <FileName>Interfaces\IBaseService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Com.DanLiris.Service.Core.Lib.Interfaces.IBasicUploadCsvService&lt;TViewModel&gt;" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IBasicUploadCsvService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Com.DanLiris.Service.Core.Lib.Interfaces.IMap&lt;TModel, TViewModel&gt;" Collapsed="true">
+    <Position X="96.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IMap.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Com.DanLiris.Service.Core.Lib.Services.MachineSpinning.IMachineSpinningService" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAAAAAAAAAAAAIBAAAAQAAAAAAIAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Services\MachineSpinning\IMachineSpinningService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

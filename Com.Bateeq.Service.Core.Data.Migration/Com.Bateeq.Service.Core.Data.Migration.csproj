@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Com.DanLiris.Service.Core.Lib\Com.DanLiris.Service.Core.Lib.csproj" />
+    <ProjectReference Include="..\Com.Danliris.Service.Core.Mongo\Com.Danliris.Service.Core.Mongo.csproj" />
+  </ItemGroup>
+
+</Project>
